@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sockets", "Sockets\Sockets.csproj", "{E591F3F8-46EE-412F-B1C6-F39D5C72E750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E591F3F8-46EE-412F-B1C6-F39D5C72E750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E591F3F8-46EE-412F-B1C6-F39D5C72E750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E591F3F8-46EE-412F-B1C6-F39D5C72E750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E591F3F8-46EE-412F-B1C6-F39D5C72E750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
