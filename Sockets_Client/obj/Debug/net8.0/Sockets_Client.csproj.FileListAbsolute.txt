@@ -1,0 +1,15 @@
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\bin\Debug\net8.0\Sockets_Client.exe
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\bin\Debug\net8.0\Sockets_Client.deps.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\bin\Debug\net8.0\Sockets_Client.runtimeconfig.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\bin\Debug\net8.0\Sockets_Client.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\bin\Debug\net8.0\Sockets_Client.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.sourcelink.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\refint\Sockets_Client.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\Sockets_Client.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\Sockets_Client\obj\Debug\net8.0\ref\Sockets_Client.dll

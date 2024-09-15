@@ -1,0 +1,15 @@
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\bin\Debug\net8.0\TCP_Server.exe
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\bin\Debug\net8.0\TCP_Server.deps.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\bin\Debug\net8.0\TCP_Server.runtimeconfig.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\bin\Debug\net8.0\TCP_Server.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\bin\Debug\net8.0\TCP_Server.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.sourcelink.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\refint\TCP_Server.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\TCP_Server.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\TCP_Server\obj\Debug\net8.0\ref\TCP_Server.dll
