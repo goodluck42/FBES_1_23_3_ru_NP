@@ -1,0 +1,22 @@
+﻿<Window x:Class="CameraApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CameraApp"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800" Loaded="MainWindow_OnLoaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Image x:Name="CameraImage" />
+        <StackPanel Grid.Row="1">
+            <Button Content="Start Camera" Click="CameraStart_Click"/>
+            <Button Content="Stop Camera" Click="CameraStop_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

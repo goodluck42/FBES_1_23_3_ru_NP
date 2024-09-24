@@ -1,0 +1,15 @@
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\bin\Debug\net8.0\CameraAppServer.exe
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\bin\Debug\net8.0\CameraAppServer.deps.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\bin\Debug\net8.0\CameraAppServer.runtimeconfig.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\bin\Debug\net8.0\CameraAppServer.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\bin\Debug\net8.0\CameraAppServer.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.sourcelink.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\refint\CameraAppServer.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\CameraAppServer.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\CameraAppServer\CameraAppServer\obj\Debug\net8.0\ref\CameraAppServer.dll
