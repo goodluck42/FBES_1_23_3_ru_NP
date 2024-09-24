@@ -84,7 +84,7 @@ if (string.IsNullOrEmpty(filePath))
 const int ChunkSize = 65000;
 const int BufferSize = ChunkSize + sizeof(int) * 2;
 using var fileStream = File.OpenRead(filePath);
-var remoteEndpoint = IPEndPoint.Parse("127.0.0.1:8080");
+var remoteEndpoint = IPEndPoint.Parse("10.0.0.200:8080");
 var tcpClient = new TcpClient();
 var datagram = new byte[BufferSize];
 int datagramTotalCount = GetDatagramTotalCount((int)fileStream.Length, ChunkSize);

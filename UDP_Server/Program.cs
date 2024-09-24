@@ -71,9 +71,8 @@ using System.Text;
 
 //// Image transfer (TCP)
 
-var myEndpoint = IPEndPoint.Parse("127.0.0.1:8080");
+var myEndpoint = IPEndPoint.Parse("10.0.0.200:8080");
 var tcpListener = new TcpListener(myEndpoint);
-using var fileStream = File.Create("image.jpg");
 
 tcpListener.Start();
 
@@ -83,6 +82,7 @@ var buffer = new byte[65008];
 
 while (true)
 {
+	using var fileStream = File.Create($"{Guid.NewGuid()}.jpg");
 	var readBytes = client.Client.Receive(buffer);
 
 	if (readBytes > 0)
