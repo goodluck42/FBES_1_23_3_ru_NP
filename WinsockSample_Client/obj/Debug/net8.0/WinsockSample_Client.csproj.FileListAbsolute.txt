@@ -1,0 +1,15 @@
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\bin\Debug\net8.0\WinsockSample_Client.exe
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\bin\Debug\net8.0\WinsockSample_Client.deps.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\bin\Debug\net8.0\WinsockSample_Client.runtimeconfig.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\bin\Debug\net8.0\WinsockSample_Client.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\bin\Debug\net8.0\WinsockSample_Client.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.sourcelink.json
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\refint\WinsockSample_Client.dll
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.pdb
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\WinsockSample_Client.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\FBES_1_23_3_ru_NP\WinsockSample_Client\obj\Debug\net8.0\ref\WinsockSample_Client.dll

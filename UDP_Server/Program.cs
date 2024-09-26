@@ -78,25 +78,24 @@ tcpListener.Start();
 
 var client = tcpListener.AcceptTcpClient();
 var buffer = new byte[65008];
-
+using var fileStream = File.Create($"{Guid.NewGuid()}.jpg");
 
 while (true)
 {
-	using var fileStream = File.Create($"{Guid.NewGuid()}.jpg");
 	var readBytes = client.Client.Receive(buffer);
 
 	if (readBytes > 0)
 	{
 		var datagramObject = new Datagram(buffer[(sizeof(int) * 2)..], BitConverter.ToInt32(buffer, 0));
-		
+
 		Console.WriteLine($"datagram.Length: {buffer.Length}");
 		Console.WriteLine($"datagramObject.Length: {datagramObject.Length}");
 		Console.WriteLine($"datagramObject.DatagramNumber: {datagramObject.DatagramNumber}");
 		Console.WriteLine($"TotalDatagrams: {BitConverter.ToInt32(buffer[4..8])}");
-		
+
 		fileStream.Write(datagramObject.Bytes);
 		fileStream.Flush();
-		
+
 		Array.Clear(buffer);
 	}
 }
