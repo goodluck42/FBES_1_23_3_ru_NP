@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Google.Apis" Version="1.68.0" />
+      <PackageReference Include="Google.Apis.Gmail.v1" Version="1.68.0.3427" />
+      <PackageReference Include="MailKit" Version="4.7.1.1" />
+      <PackageReference Include="Microsoft.Identity.Client" Version="4.65.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="client_secret_62592329031-akl3jt1co1k5gt5rhinrhcp2qvqus55j.apps.googleusercontent.com.json" />
+      <Content Include="client_secret_62592329031-akl3jt1co1k5gt5rhinrhcp2qvqus55j.apps.googleusercontent.com.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+</Project>
